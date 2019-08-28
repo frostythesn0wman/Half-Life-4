@@ -8,7 +8,7 @@ This is an open source Unity based game project, where your imagination is the o
 
 If you have an idea, send me a pm and i will add you to the repo.
 
-Make your idea real and extend the existing code with it, before the existing code extend you.
+Make your idea real and extend the existing code with it, before the existing code extends you.
 
 It can be a modell, code, sampleText, lensFlare
 
